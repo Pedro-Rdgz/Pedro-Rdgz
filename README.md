@@ -1,7 +1,7 @@
 # Pedro Rodríguez
 **Computer Engineer | Software Developer**
 ## Contact
-<a href="www.linkedin.com/in/pedro-rodriguez06">LinkedIn</a>
+[LinkedIn](https://www.linkedin.com/in/pedro-rodriguez06)
 ## About me
 Hello, my name is Pedro and I'm a Computer Engineer focused on software development.
 Fast learner with high adaptability, with experience in QA, testing, and client support.
